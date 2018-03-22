@@ -1,4 +1,5 @@
 # Computational PANGenomics
+(https://gtpb.github.io/CPANG18/)
 
 ## Course Description
 
