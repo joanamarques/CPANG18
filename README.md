@@ -1,5 +1,5 @@
 # Computational PANGenomics
-Content available also as a website https://gtpb.github.io/CPANG18/
+Content is also available as a standalone website     https://gtpb.github.io/CPANG18/
 
 ## Course Description
 
